@@ -1,0 +1,17 @@
+
+.custom-select {
+    position: relative;
+    font-family: Arial;
+    margin-bottom: 10px;
+  }
+.custom-select select{
+    background-color: #075a6a;
+    color: aliceblue;
+    outline: none;
+    border-color: #075a6a;
+    box-shadow: 0 2px 6px #00000038;
+}
+.count-container{
+    text-align: center;
+    margin-top: 10px;
+}

@@ -1,0 +1,14 @@
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    color: rgb(198, 197, 197);
+    background: #056679;
+    padding: 5px;
+    box-shadow: 0 2px 7px #00000093;
+}
